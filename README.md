@@ -21,154 +21,54 @@ I've built production software for **government ministries**, **CAMRAIL**, the *
 
 - 🌐 **Portfolio (FR/EN, with case studies):** [jordan-tukum.pages.dev](https://jordan-tukum.pages.dev/en)
 - 🏗️ **Currently:** Lead Full Stack Developer at **ADWA SARL**, Douala — leading teams of 3–6 developers (Agile)
-- 🎓 **Education:** BTech in Software Engineering, **IUG** (University of Bamenda) — 60/60 credits, GPA 3.27/4, degree being issued · BTech & HND in Electrical & Electronic Engineering
 - 🌍 **International exposure:** official delegate of the CCAA — **AFI Aviation Week 2025**, Victoria Falls, Zimbabwe
-- 💼 **Open to:** senior / lead full-stack roles in Cameroon or remote
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://jordan-tukum.pages.dev/en/projects/services-publics"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-cards.jtukum.workers.dev/cards/services-publics-dark.svg"><img src="https://github-profile-cards.jtukum.workers.dev/cards/services-publics-light.svg" width="410" alt="SERVICES PUBLICS. Lead developer. Laravel, Vue 3, Inertia, Docker."></picture></a>
+  <a href="https://jordan-tukum.pages.dev/en/projects/bornes-libre-service"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-cards.jtukum.workers.dev/cards/kiosks-dark.svg"><img src="https://github-profile-cards.jtukum.workers.dev/cards/kiosks-light.svg" width="410" alt="Self-Service Kiosks. Lead developer. Electron, Quasar, Tauri 2, Nuxt 4, Laravel."></picture></a>
+  <br>
+  <a href="https://jordan-tukum.pages.dev/en/projects/ministere-fonction-publique"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-cards.jtukum.workers.dev/cards/fonction-publique-dark.svg"><img src="https://github-profile-cards.jtukum.workers.dev/cards/fonction-publique-light.svg" width="410" alt="Procedures Platform. Lead developer. Laravel 12, React, TypeScript, Pest."></picture></a>
+  <a href="https://jordan-tukum.pages.dev/en/projects/conformite-bancaire"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-cards.jtukum.workers.dev/cards/banking-dark.svg"><img src="https://github-profile-cards.jtukum.workers.dev/cards/banking-light.svg" width="410" alt="Banking Compliance. Lead developer. Nuxt 4, TypeScript, Zod, Vitest."></picture></a>
+  <br>
+  <a href="https://jordan-tukum.pages.dev/en/projects/equip4safety"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-cards.jtukum.workers.dev/cards/equip4safety-dark.svg"><img src="https://github-profile-cards.jtukum.workers.dev/cards/equip4safety-light.svg" width="410" alt="EQUIP4SAFETY. Technical lead. Laravel 12, Next.js 15, React 19."></picture></a>
+  <a href="https://github.com/kiri1101/student-management-system"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-cards.jtukum.workers.dev/cards/schulyf-dark.svg"><img src="https://github-profile-cards.jtukum.workers.dev/cards/schulyf-light.svg" width="410" alt="SchuLyf. Public. Laravel 13, Inertia, Vue 3."></picture></a>
+</p>
+<p align="center"><sub>Each card opens its full case study &nbsp;·&nbsp; Also public: <a href="https://github.com/kiri1101/yt-mp3">yt-mp3</a> · <a href="https://github.com/kiri1101/qrcode-generator">QR code generator</a> · <a href="https://github.com/kiri1101/kiri1101.github.io">this portfolio</a></sub></p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><h3>⚙️ Backend</h3><img src="https://github-profile-cards.jtukum.workers.dev/stack/backend.svg" alt="PHP, Laravel, Python, Flask, Node.js, Nitro"></td>
+    <td align="center" width="33%"><h3>🎨 Frontend</h3><img src="https://github-profile-cards.jtukum.workers.dev/stack/frontend.svg" alt="Vue, Nuxt, React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite, Inertia"></td>
+    <td align="center" width="33%"><h3>📱 Mobile &amp; Desktop</h3><img src="https://github-profile-cards.jtukum.workers.dev/stack/mobile-desktop.svg" alt="Android, Tauri, Electron, Quasar"></td>
+  </tr>
+  <tr>
+    <td align="center"><h3>🧪 Testing</h3><img src="https://github-profile-cards.jtukum.workers.dev/stack/testing.svg" alt="Vitest, Pest, Playwright"></td>
+    <td align="center"><h3>☁️ DevOps &amp; Cloud</h3><img src="https://github-profile-cards.jtukum.workers.dev/stack/devops-cloud.svg" alt="Docker, GitHub Actions, Git, Cloudflare"></td>
+    <td align="center"><h3>🗄️ Databases</h3><img src="https://github-profile-cards.jtukum.workers.dev/stack/databases.svg" alt="MySQL, PostgreSQL, Redis"></td>
+  </tr>
+</table>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python_(Flask)-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js_/_Nitro-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Mobile & Desktop**
-
-![Android](https://img.shields.io/badge/Android_(Quasar)-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri_2-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-**Quality & DevOps**
-
-![Pest](https://img.shields.io/badge/Pest_/_PHPUnit-F28D1A?style=flat-square&logo=php&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-<sub>Also: Flutter (earlier projects), MongoDB (personal projects). Familiar with Kotlin, Java, Rust, Angular, NestJS.</sub>
-
----
-
-## 🏆 Featured Work
-
-> Full case studies (context, my role, architecture, evidence) on the **[portfolio](https://jordan-tukum.pages.dev/en)**.
-
-### 🏛️ SERVICES PUBLICS — National e-Government Portal
-
-> The Ministry of Finance's national portal for administrative procedures and non-tax revenue collection: user accounts with OTP, declarations with supporting documents, online payments. **Lead developer.**
-
-**Stack:** Laravel · Vue 3 · Inertia (SSR) · Docker
-🔗 **[Live](https://services-publics.cm/services/publics)** · **[Case study](https://jordan-tukum.pages.dev/en/projects/services-publics)**
-
----
-
-### 🚂 Self-Service Kiosks — CAMRAIL & intercity bus
-
-> CAMRAIL ticketing on interactive kiosks in Douala and Yaoundé stations, then a multi-service kiosk for an intercity bus operator driving a thermal printer, QR reader and ID scanner. **Lead developer.**
-
-**Stack:** Tauri 2 · Nuxt 4 · Nitro · Laravel
-🔗 **[Case study](https://jordan-tukum.pages.dev/en/projects/bornes-libre-service)**
-
----
-
-### 🏛️ Ministry of Public Service — Procedures Platform
-
-> Steps, required documents and contacts for every public service; role-based Laravel API with 280+ automated tests and a route contract enforced by the test suite. **Lead developer.**
-
-**Stack:** Laravel 12 · React · TypeScript · Pest
-🔗 **[Live](https://servicepublic.gov.cm)** · **[Case study](https://jordan-tukum.pages.dev/en/projects/ministere-fonction-publique)**
-
----
-
-### 🏦 Banking Compliance — CEMAC zone
-
-> Collecting, checking and tracking the client documentation banks must hold for international transfers. Nuxt 4 Backend-for-Frontend with 180+ unit tests. **Lead developer.**
-
-**Stack:** Nuxt 4 · TypeScript · Zod · Vitest
-🔗 **[Case study](https://jordan-tukum.pages.dev/en/projects/conformite-bancaire)**
-
----
-
-### ✈️ EQUIP4SAFETY — Aviation Equipment Marketplace
-
-> B2B marketplace for ICAO member states, commissioned by the **Cameroon Civil Aviation Authority (CCAA)**; represented at AFI Aviation Week 2025. **Technical lead & coordination.**
-
-**Stack:** Laravel 12 · Next.js 15 · React 19
-🔗 **[Demo](https://demo.equip4safety.org/marketplace)** · **[Case study](https://jordan-tukum.pages.dev/en/projects/equip4safety)**
-
----
-
-### 🧪 Independent projects (public code)
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[SchuLyf](https://github.com/kiri1101/student-management-system)** | University administration: admissions, HMAC-signed receipts verifiable online, exam gating — 580+ tests, full docs, CI | Laravel 13 · Inertia · Vue 3 |
-| **[yt-mp3](https://github.com/kiri1101/yt-mp3)** | YouTube → MP3, built for a blind relative | Python · Flask · pytest |
-| **[QR code generator](https://github.com/kiri1101/qrcode-generator)** | Fully client-side QR generator, FR/EN | Nuxt 4 · Tailwind |
-| **[This portfolio](https://github.com/kiri1101/kiri1101.github.io)** | Bilingual static site, 90+ tests, Lighthouse 100 a11y/SEO | Nuxt 4 · Tailwind 4 |
+<p align="center"><sub>Also: PHPUnit, Flutter (earlier projects), MongoDB (personal projects). Familiar with Kotlin, Java, Rust, Angular, NestJS.</sub></p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiri1101&show_icons=true&hide_border=true&title_color=1B2B4B&icon_color=2E5BA8&text_color=333333&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiri1101&layout=compact&hide_border=true&title_color=1B2B4B&icon_color=2E5BA8&text_color=333333&bg_color=ffffff)
-
-</div>
-
----
-
-## 🌍 Sectors I've Built For
-
-| Sector | Project |
-|---|---|
-| 🏛️ Government & Public Administration | SERVICES PUBLICS (Ministry of Finance), Ministry of Public Service |
-| ✈️ Aviation | EQUIP4SAFETY (ICAO/CCAA) |
-| 🚂 Transport | CAMRAIL & intercity self-service kiosks |
-| 🏦 Banking & Finance | CEMAC banking compliance |
-| 🛃 Customs & Trade | Port of Douala — TEL fee collection (with CAMCIS) |
-| 💳 Payments & E-Commerce | HAURIZON PAY, HAURIZON SHOP |
-| 📺 Media | Satellite-TV subscriptions — Android app & back office |
-| 🎓 Education | SchuLyf |
-| 🏠 Real Estate | DrymHome |
-| 🤝 NGO | SWAA LITTORAL donation platform |
-
----
-
-## 📬 Let's Connect
-
-I'm open to interesting projects, collaborations, and new opportunities — in French or English.
-
-🌐 **[jordan-tukum.pages.dev](https://jordan-tukum.pages.dev/en)**
-📧 **[jtukum@outlook.com](mailto:jtukum@outlook.com)**
-💬 **[WhatsApp: +237 698 377 389](https://wa.me/237698377389)**
-💼 **[LinkedIn](https://linkedin.com/in/jordan-tukum-811017137)**
-📍 **Douala, Cameroon**
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-cards.jtukum.workers.dev/stats-dark.svg"><img src="https://github-profile-cards.jtukum.workers.dev/stats-light.svg" width="560" alt="GitHub stats: commits, pull requests and issues, public and private, with grade"></picture>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kiri1101&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&stroke=30363d"><img src="https://streak-stats.demolab.com?user=kiri1101&hide_border=true&background=FFFFFF&ring=1B2B4B&fire=2E5BA8&currStreakNum=1B2B4B&sideNums=1B2B4B&currStreakLabel=2E5BA8&sideLabels=333333&dates=6B7280&stroke=E5E7EB" height="165" alt="Contribution streak"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kiri1101&layout=compact&langs_count=6&hide_border=true&title_color=e6edf3&text_color=c9d1d9&bg_color=0d1117"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiri1101&layout=compact&langs_count=6&hide_border=true&title_color=1B2B4B&icon_color=2E5BA8&text_color=333333&bg_color=ffffff" height="165" alt="Most used languages"></picture>
+</p>
 
 ---
 
