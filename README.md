@@ -37,7 +37,7 @@ I've built production software for **government ministries**, **CAMRAIL**, the *
   <a href="https://jordan-tukum.pages.dev/en/projects/equip4safety"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-cards.jtukum.workers.dev/cards/equip4safety-dark.svg"><img src="https://github-profile-cards.jtukum.workers.dev/cards/equip4safety-light.svg" width="410" alt="EQUIP4SAFETY. Technical lead. Laravel 12, Next.js 15, React 19."></picture></a>
   <a href="https://github.com/kiri1101/student-management-system"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-cards.jtukum.workers.dev/cards/schulyf-dark.svg"><img src="https://github-profile-cards.jtukum.workers.dev/cards/schulyf-light.svg" width="410" alt="SchuLyf. Public. Laravel 13, Inertia, Vue 3."></picture></a>
 </p>
-<p align="center"><sub>Each card opens its full case study &nbsp;·&nbsp; Also public: <a href="https://github.com/kiri1101/yt-mp3">yt-mp3</a> · <a href="https://github.com/kiri1101/qrcode-generator">QR code generator</a> · <a href="https://github.com/kiri1101/kiri1101.github.io">this portfolio</a></sub></p>
+<p align="center"><sub>Each card opens its case study or code &nbsp;·&nbsp; Also public: <a href="https://github.com/kiri1101/yt-mp3">yt-mp3</a> · <a href="https://github.com/kiri1101/qrcode-generator">QR code generator</a> · <a href="https://github.com/kiri1101/kiri1101.github.io">this portfolio</a></sub></p>
 
 ---
 
