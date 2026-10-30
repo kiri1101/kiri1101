@@ -67,7 +67,6 @@ I've built production software for **government ministries**, **CAMRAIL**, the *
 </p>
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kiri1101&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&stroke=30363d"><img src="https://streak-stats.demolab.com?user=kiri1101&hide_border=true&background=FFFFFF&ring=1B2B4B&fire=2E5BA8&currStreakNum=1B2B4B&sideNums=1B2B4B&currStreakLabel=2E5BA8&sideLabels=333333&dates=6B7280&stroke=E5E7EB" height="165" alt="Contribution streak"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kiri1101&layout=compact&langs_count=6&hide_border=true&title_color=e6edf3&text_color=c9d1d9&bg_color=0d1117"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiri1101&layout=compact&langs_count=6&hide_border=true&title_color=1B2B4B&icon_color=2E5BA8&text_color=333333&bg_color=ffffff" height="165" alt="Most used languages"></picture>
 </p>
 
 ---
