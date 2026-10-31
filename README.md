@@ -67,6 +67,7 @@ I've built production software for **government ministries**, **CAMRAIL**, the *
 </p>
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kiri1101&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&stroke=30363d"><img src="https://streak-stats.demolab.com?user=kiri1101&hide_border=true&background=FFFFFF&ring=1B2B4B&fire=2E5BA8&currStreakNum=1B2B4B&sideNums=1B2B4B&currStreakLabel=2E5BA8&sideLabels=333333&dates=6B7280&stroke=E5E7EB" height="165" alt="Contribution streak"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-cards.jtukum.workers.dev/langs-dark.svg"><img src="https://github-profile-cards.jtukum.workers.dev/langs-light.svg" height="165" alt="Most used languages (incl. private repositories)"></picture>
 </p>
 
 ---
