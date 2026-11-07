@@ -47,7 +47,7 @@ I've built production software for **government ministries**, **CAMRAIL**, the *
   <tr>
     <td align="center" width="33%"><h3>⚙️ Backend</h3><img src="https://github-profile-cards.jtukum.workers.dev/stack/backend.svg" alt="PHP, Laravel, Python, Flask, Node.js, Nitro"></td>
     <td align="center" width="33%"><h3>🎨 Frontend</h3><img src="https://github-profile-cards.jtukum.workers.dev/stack/frontend.svg" alt="Vue, Nuxt, React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite, Inertia"></td>
-    <td align="center" width="33%"><h3>📱 Mobile &amp; Desktop</h3><img src="https://github-profile-cards.jtukum.workers.dev/stack/mobile-desktop.svg" alt="Android, Tauri, Electron, Quasar"></td>
+    <td align="center" width="33%"><h3>📱 Mobile/Desktop</h3><img src="https://github-profile-cards.jtukum.workers.dev/stack/mobile-desktop.svg" alt="Android, Tauri, Electron, Quasar"></td>
   </tr>
   <tr>
     <td align="center"><h3>🧪 Testing</h3><img src="https://github-profile-cards.jtukum.workers.dev/stack/testing.svg" alt="Vitest, Pest, Playwright"></td>
