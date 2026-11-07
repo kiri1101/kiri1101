@@ -21,6 +21,7 @@ I've built production software for **government ministries**, **CAMRAIL**, the *
 
 - 🌐 **Portfolio (FR/EN, with case studies):** [jordan-tukum.pages.dev](https://jordan-tukum.pages.dev/en)
 - 🏗️ **Currently:** Lead Full Stack Developer at **ADWA SARL**, Douala — leading teams of 3–6 developers (Agile)
+- 🎓 **Education:** B.Sc in Computer Science, option Network and IT Security, **DIT** Douala · BTech in Software Engineering, **IUG** Douala (University of Bamenda), degree being issued
 - 🌍 **International exposure:** official delegate of the CCAA — **AFI Aviation Week 2025**, Victoria Falls, Zimbabwe
 
 ---
@@ -56,7 +57,7 @@ I've built production software for **government ministries**, **CAMRAIL**, the *
   </tr>
 </table>
 
-<p align="center"><sub>Also: PHPUnit, Flutter (earlier projects), MongoDB (personal projects). Familiar with Kotlin, Java, Rust, Angular, NestJS.</sub></p>
+<p align="center"><sub>Also: Express, Socket.IO, RabbitMQ, PHPUnit, Flutter (earlier projects), MongoDB (personal projects). Familiar with Kotlin, Java, Rust, Angular, NestJS.</sub></p>
 
 ---
 
